@@ -1,4 +1,4 @@
-# Machine Learning in Finance
+# ML for Finance
 
  In this project, under the guidance of Dr. Kushal Kr. Shah, at the Indian Institute of Science Education and Research, Bhopal, we aim to classify financial instruments into one of sector based categories. We will use a dataset that contains various financial indicators such as price, volume, and volatility. We will develop a multi-class classification model using Support Vector Machines (SVM), Random Forest, K-Nearest Neighbor and Multilayer Neural Network to predict the company's category.
 
